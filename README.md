@@ -18,7 +18,7 @@ Example:
 ### Option 1: install with `skills` CLI (recommended)
 
 ```bash
-npx skills add <owner>/<repo> --skill cvss31 -a claude-code
+npx skills add https://github.com/Alan951/skills --skill cvss31 -a claude-code
 ```
 
 ### Option 2: copy manually
