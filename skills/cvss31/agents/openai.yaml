@@ -1,0 +1,4 @@
+interface:
+  display_name: "CVSS 3.1"
+  short_description: "Calcula y analiza scores CVSS v3.1 con vector y justificacion."
+  default_prompt: "Analiza la vulnerabilidad y devuelve score CVSS v3.1 con desglose y vector."
